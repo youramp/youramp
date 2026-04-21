@@ -1,0 +1,275 @@
+{
+  "updated_at": "2026-04-21T07:00:42.142Z",
+  "gu": {
+    "마포구": {
+      "motoFrom": 13000,
+      "carFrom": 24000
+    },
+    "서대문구": {
+      "motoFrom": 13000,
+      "carFrom": 24000
+    },
+    "양천구": {
+      "motoFrom": 17000,
+      "carFrom": 28000
+    },
+    "영등포구": {
+      "motoFrom": 17000,
+      "carFrom": 28000
+    },
+    "용산구": {
+      "motoFrom": 18000,
+      "carFrom": 30000
+    },
+    "종로구": {
+      "motoFrom": 17000,
+      "carFrom": 28000
+    },
+    "중구": {
+      "motoFrom": 17000,
+      "carFrom": 29000
+    },
+    "강서구": {
+      "motoFrom": 18000,
+      "carFrom": 29000
+    },
+    "성동구": {
+      "motoFrom": 20000,
+      "carFrom": 33000
+    },
+    "구로구": {
+      "motoFrom": 19000,
+      "carFrom": 30000
+    },
+    "성북구": {
+      "motoFrom": 20000,
+      "carFrom": 31000
+    },
+    "금천구": {
+      "motoFrom": 20000,
+      "carFrom": 31000
+    },
+    "관악구": {
+      "motoFrom": 21000,
+      "carFrom": 32000
+    },
+    "광진구": {
+      "motoFrom": 21000,
+      "carFrom": 36000
+    },
+    "동작구": {
+      "motoFrom": 18000,
+      "carFrom": 29000
+    },
+    "강동구": {
+      "motoFrom": 28000,
+      "carFrom": 38000
+    },
+    "노원구": {
+      "motoFrom": 23000,
+      "carFrom": 34000
+    },
+    "도봉구": {
+      "motoFrom": 26000,
+      "carFrom": 34000
+    },
+    "강북구": {
+      "motoFrom": 22000,
+      "carFrom": 34000
+    },
+    "동대문구": {
+      "motoFrom": 22000,
+      "carFrom": 34000
+    },
+    "중랑구": {
+      "motoFrom": 21000,
+      "carFrom": 36000
+    }
+  },
+  "dong": {
+    "강남구_신사": {
+      "motoFrom": 21000,
+      "carFrom": 34000
+    },
+    "강남구_압구정": {
+      "motoFrom": 21000,
+      "carFrom": 34000
+    },
+    "강남구_청담": {
+      "motoFrom": 21000,
+      "carFrom": 34000
+    },
+    "강남구_논현": {
+      "motoFrom": 21000,
+      "carFrom": 34000
+    },
+    "강남구_삼성": {
+      "motoFrom": 21000,
+      "carFrom": 34000
+    },
+    "강남구_역삼": {
+      "motoFrom": 21000,
+      "carFrom": 34000
+    },
+    "강남구_대치": {
+      "motoFrom": 21000,
+      "carFrom": 34000
+    },
+    "강남구_도곡": {
+      "motoFrom": 21000,
+      "carFrom": 34000
+    },
+    "강남구_개포": {
+      "motoFrom": 24000,
+      "carFrom": 37000
+    },
+    "강남구_일원": {
+      "motoFrom": 24000,
+      "carFrom": 37000
+    },
+    "강남구_수서": {
+      "motoFrom": 24000,
+      "carFrom": 37000
+    },
+    "강남구_자곡": {
+      "motoFrom": 24000,
+      "carFrom": 37000
+    },
+    "강남구_율현": {
+      "motoFrom": 24000,
+      "carFrom": 37000
+    },
+    "강남구_세곡": {
+      "motoFrom": 24000,
+      "carFrom": 37000
+    },
+    "서초구_반포": {
+      "motoFrom": 20000,
+      "carFrom": 31000
+    },
+    "서초구_잠원": {
+      "motoFrom": 20000,
+      "carFrom": 31000
+    },
+    "서초구_방배": {
+      "motoFrom": 20000,
+      "carFrom": 31000
+    },
+    "서초구_서초": {
+      "motoFrom": 23000,
+      "carFrom": 34000
+    },
+    "서초구_양재": {
+      "motoFrom": 23000,
+      "carFrom": 34000
+    },
+    "서초구_우면": {
+      "motoFrom": 23000,
+      "carFrom": 34000
+    },
+    "서초구_염곡": {
+      "motoFrom": 23000,
+      "carFrom": 34000
+    },
+    "서초구_내곡": {
+      "motoFrom": 23000,
+      "carFrom": 34000
+    },
+    "서초구_신원": {
+      "motoFrom": 23000,
+      "carFrom": 34000
+    },
+    "서초구_원지": {
+      "motoFrom": 23000,
+      "carFrom": 34000
+    },
+    "송파구_잠실": {
+      "motoFrom": 26000,
+      "carFrom": 36000
+    },
+    "송파구_신천": {
+      "motoFrom": 26000,
+      "carFrom": 36000
+    },
+    "송파구_풍납": {
+      "motoFrom": 26000,
+      "carFrom": 36000
+    },
+    "송파구_삼전": {
+      "motoFrom": 26000,
+      "carFrom": 36000
+    },
+    "송파구_석촌": {
+      "motoFrom": 26000,
+      "carFrom": 36000
+    },
+    "송파구_송파": {
+      "motoFrom": 26000,
+      "carFrom": 36000
+    },
+    "송파구_방이": {
+      "motoFrom": 26000,
+      "carFrom": 36000
+    },
+    "송파구_가락": {
+      "motoFrom": 26000,
+      "carFrom": 39000
+    },
+    "송파구_오금": {
+      "motoFrom": 26000,
+      "carFrom": 39000
+    },
+    "송파구_문정": {
+      "motoFrom": 26000,
+      "carFrom": 39000
+    },
+    "송파구_장지": {
+      "motoFrom": 26000,
+      "carFrom": 39000
+    },
+    "송파구_거여": {
+      "motoFrom": 26000,
+      "carFrom": 39000
+    },
+    "송파구_마천": {
+      "motoFrom": 26000,
+      "carFrom": 39000
+    },
+    "은평구_구산": {
+      "motoFrom": 18000,
+      "carFrom": 28000
+    },
+    "은평구_녹번": {
+      "motoFrom": 18000,
+      "carFrom": 28000
+    },
+    "은평구_갈현": {
+      "motoFrom": 21000,
+      "carFrom": 31000
+    },
+    "은평구_대조": {
+      "motoFrom": 21000,
+      "carFrom": 31000
+    },
+    "은평구_역촌": {
+      "motoFrom": 21000,
+      "carFrom": 31000
+    },
+    "은평구_은평신사": {
+      "motoFrom": 21000,
+      "carFrom": 31000
+    },
+    "은평구_응암": {
+      "motoFrom": 21000,
+      "carFrom": 31000
+    },
+    "은평구_증산": {
+      "motoFrom": 21000,
+      "carFrom": 31000
+    },
+    "은평구_수색": {
+      "motoFrom": 21000,
+      "carFrom": 31000
+    }
+  }
+}
